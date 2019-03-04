@@ -4,4 +4,4 @@ Lorem ipsum nešto lorem ipsum nešto lorem ipsum nešto lorem ipsum nešto lore
 
 Pogledajmo sada kako dodati sliku. Primjetite kako je povlačimo iz mape iznad ove, ne iz mape trenutnog jezika ovog članka!
 
-![](../images/example.png)
+![](../images/example.jpg)
