@@ -4,4 +4,4 @@ Lorem ipsum something lorem ipsum something lorem ipsum something lorem ipsum so
 
 Now let's see an image. Notice how it's being pulled in from the folder one level above this one!
 
-![](../images/example.png)
+![](../images/example.jpg)
